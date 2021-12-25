@@ -17,7 +17,7 @@
     max-width: 1150px;
     margin: 0 auto;
     height: 10vh;
-    background-color: rgb(172, 0, 0);
+    background-color: gray;
     display: flex;
     font-size: 24px;
 }
@@ -49,7 +49,7 @@ a:hover {
     max-width: 1150px;
     margin: 0 auto;    
     color: white;
-    background-color: rgb(172, 0, 0);
+    background-color: gray;
     display: flex;
     align-items: center;
     justify-content: center;
